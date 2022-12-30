@@ -1,4 +1,4 @@
-# project_1_todo_app
+#todo_app_with_getx_hive
 
 A new Flutter project.
 
